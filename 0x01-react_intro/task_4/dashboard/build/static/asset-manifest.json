@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.7fd5517c.css",
+    "main.js": "/alx-react/static/js/main.f137d30d.js",
+    "static/media/hbnblogo.jpg": "/alx-react/static/media/hbnblogo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alx-react/index.html",
+    "main.7fd5517c.css.map": "/alx-react/static/css/main.7fd5517c.css.map",
+    "main.f137d30d.js.map": "/alx-react/static/js/main.f137d30d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd5517c.css",
+    "static/js/main.f137d30d.js"
+  ]
+}
